@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "~Puzzle:Puzzle.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "table[y][x]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Puzzle::solveBlk(int):Puzzle.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "value[startY+y][startX+x]">
+            </PersistentString>
+            <PersistentString
+               value = "startY+y">
+            </PersistentString>
+            <PersistentString
+               value = "startX+x">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
